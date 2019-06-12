@@ -62,7 +62,7 @@
     "ruleSearchList": "class.resultLeft@tag.li",
     "ruleSearchName": "class.sortPhr@tag.a.0@tag.h3@text",
     "ruleSearchNoteUrl": "class.sortPhr@tag.a.0@href",
-    "ruleSearchUrl": "https://www.wanbentxt.com/modules/article/search.php@searchtype=articlename&searchkey=searchKey|char=gbk"
+    "ruleSearchUrl": "https://www.wanbentxt.com/modules/article/search.php@searchtype=articlename&searchkey=searchKey|char=gbk",
     "serialNumber": 0,
     "weight": 0
   }
