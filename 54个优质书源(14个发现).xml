@@ -81,7 +81,7 @@
     "ruleBookLastChapter": "",
     "ruleBookName": "class.site_box.0@class.book_info.0@class.book_name flex_shrink.0@text",
     "ruleBookUrlPattern": "",
-    "ruleChapterList": "class.site_box.1@class.chapters@tag.a",
+    "ruleChapterList": "class.site_box.1@class.chapters@tag.a!0",
     "ruleChapterName": "text",
     "ruleChapterUrl": "",
     "ruleChapterUrlNext": "",
