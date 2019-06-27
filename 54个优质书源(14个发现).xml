@@ -96,7 +96,7 @@
   "weight": 0
 },
 {
-  "bookSourceGroup": "优质",
+  "bookSourceGroup": "优质; 发现",
   "bookSourceName": "斋书苑",
   "bookSourceUrl": "https://www.zhaishuyuan.com",
   "enable": true,
@@ -297,7 +297,7 @@
     "weight": 0
   },
   {
-    "bookSourceGroup": "轻小说",
+    "bookSourceGroup": "轻小说; 发现",
     "bookSourceName": "亲小说",
     "bookSourceType": "",
     "bookSourceUrl": "http://www.qinxiaoshuo.com",
