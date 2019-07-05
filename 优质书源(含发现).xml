@@ -207,7 +207,7 @@
   "enable": true,
   "httpUserAgent": "",
   "ruleBookAuthor": "class.box_con.0@id.info@tag.p.0@text",
-  "ruleBookContent": "id.content@textNodes",
+  "ruleBookContent": "id.content@textNodes#[a-zA-Z]+.V[^\\s]*[a-zA-Z]|[a-zA-Z]+.v[^\\s]*[a-zA-Z]|≦.*≧|..039;",
   "ruleBookLastChapter": "id.info@tag.p.3@text",
   "ruleBookName": "class.box_con.0@id.info@tag.h1.0@text",
   "ruleChapterList": "id.list@tag.dd",
