@@ -7,7 +7,7 @@
   "httpUserAgent": "",
   "loginUrl": "",
   "ruleBookAuthor": "class.bq@tag.span.1@text#作者：",
-  "ruleBookContent": "id.articlecontent@children@textNodes",
+  "ruleBookContent": "id.articlecontent@children@textNodes#[a-zA-Z]+.V[^\\s]*[a-zA-Z]|[a-zA-Z]+.v[^\\s]*[a-zA-Z]|≦.*≧|www.lingdiankanshu.com|lingdiankanshu.com",
   "ruleBookKind": "class.bq@tag.span.0@text#类别：",
   "ruleBookLastChapter": "class.last9@tag.li.0@tag.a@text",
   "ruleBookName": "tag.h1@text",
