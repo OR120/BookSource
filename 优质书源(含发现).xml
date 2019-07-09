@@ -7,7 +7,7 @@
   "httpUserAgent": "",
   "loginUrl": "",
   "ruleBookAuthor": "##:author\" content=\"([^\"]+)##$1###",
-  "ruleBookContent": "@css:#articlecontent@html##【(零点(看书)?|(www\\.)?\\w{1,10}\\.com|\\s)+】|(www|m)\\.lingdiankanshu\\.[a-z]{2,5}",
+  "ruleBookContent": "@css:#articlecontent@html##【(零点(看书)?|(www\\.)?\\w{1,10}\\.com|\\s)+】|lingdiankanshu.com|(www|m)\\.lingdiankanshu\\.[a-z]{2,5}",
   "ruleBookKind": "##:category\" content=\"([^\"]+)##$1###",
   "ruleBookLastChapter": "##_chapter_name\" content=\"([^\"]+)##$1###",
   "ruleBookName": "##:book_name\" content=\"([^\"]+)##$1###",
