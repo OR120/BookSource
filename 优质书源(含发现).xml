@@ -38,7 +38,7 @@
   "bookSourceUrl": "https://www.shumilou.org",
   "enable": true,
   "ruleBookAuthor": "//meta[@property=\"og:novel:author\"]/@content",
-  "ruleBookContent": "id.content@textNodes",
+  "ruleBookContent": "id.content@textNodes#一秒记住.+免费阅读！",
   "ruleBookName": "//meta[@property=\"og:novel:book_name\"]/@content",
   "ruleChapterList": "class.list-inline chapterlist@li@a",
   "ruleChapterName": "text",
