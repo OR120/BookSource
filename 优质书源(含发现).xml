@@ -100,7 +100,7 @@
   "ruleContentUrl": "tag.a@href",
   "ruleContentUrlNext": "",
   "ruleCoverUrl": "class.bigpic@tag.img@src",
-  "ruleFindUrl": "玄幻::https://www.kenshu.cc/xuanhuan/{searchPage}/\n武侠::https://www.kenshu.cc/wuxia/{searchPage}/\n言情::https://www.kenshu.cc/yanqing/{searchPage}/\n历史::https://www.kenshu.cc/lishi/{searchPage}/\n科幻::https://www.kenshu.cc/kehuan/{searchPage}/\n恐怖::https://www.kenshu.cc/kongbu/{searchPage}/\n女生::https://www.kenshu.cc/nvsheng/{searchPage}/",
+  "ruleFindUrl": "",
   "ruleIntroduce": "class.book-intro@text#标签.*",
   "ruleSearchAuthor": "tag.p.0@text#\\[|\\].*",
   "ruleSearchCoverUrl": "tag.img@src",
@@ -111,7 +111,7 @@
   "ruleSearchName": "tag.a.1@text",
   "ruleSearchNoteUrl": "tag.a.0@href",
   "ruleSearchUrl": "https://www.kenshu.cc/modules/article/search.php?area=2&searchkey=searchKey&page=searchPage",
-  "serialNumber": 14,
+  "serialNumber": 0,
   "weight": 0
 },
 {
