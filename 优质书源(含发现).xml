@@ -185,7 +185,7 @@
   "ruleBookContent": "id.content@textNodes",
   "ruleBookKind": "",
   "ruleBookLastChapter": "id.info@tag.p.3@tag.a@text",
-  "ruleBookName": "class.box_con.0@id.info@tag.h1.0@text",
+  "ruleBookName": "",
   "ruleChapterList": "id.list@tag.dd",
   "ruleChapterName": "tag.a@text",
   "ruleChapterUrl": "",
@@ -203,8 +203,8 @@
   "ruleSearchList": "class.result-item",
   "ruleSearchName": "class.result-item-title.0@tag.a.0@text",
   "ruleSearchNoteUrl": "class.result-item-title.0@tag.a.0@href",
-  "ruleSearchUrl": "https://www.zwda.com/search.php?keyword=searchKey&page=searchPage",
-  "serialNumber": 11,
+  "ruleSearchUrl": "https://www.zwda.com/search.php?keyword=searchKey",
+  "serialNumber": 10045,
   "weight": 0
 },
 {
