@@ -309,7 +309,7 @@
   "bookSourceGroup": "优质",
   "bookSourceName": "玫瑰小说网",
   "bookSourceUrl": "https://www.meiguixs.net",
-  "enable": false,
+  "enable": true,
   "httpUserAgent": "",
   "loginUrl": "",
   "ruleBookAuthor": "id.author.0@tag.a.0@text",
