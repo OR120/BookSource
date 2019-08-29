@@ -130,9 +130,9 @@
   "bookSourceUrl": "http://duyidu.net",
   "enable": true,
   "httpUserAgent": "",
-  "ruleBookAuthor": "class.list-group@tag.li.0@tag.h1@tag.small@text",
+  "ruleBookAuthor": "",
   "ruleBookContent": "id.txtContent@textNodes",
-  "ruleBookName": "class.list-group@tag.li.0@tag.h1@textNodes",
+  "ruleBookName": "",
   "ruleChapterList": "id.chapters-list@tag.li",
   "ruleChapterName": "tag.a@text",
   "ruleChapterUrl": "class.list-group@tag.li.5@tag.a.0@href",
@@ -150,7 +150,7 @@
   "ruleSearchName": "class.col-xs-3@tag.a.0@text",
   "ruleSearchNoteUrl": "class.col-xs-3@tag.a.0@href",
   "ruleSearchUrl": "http://duyidu.net/search.htm?keyword=searchKey",
-  "serialNumber": 1,
+  "serialNumber": 0,
   "weight": 0
 },
 {
