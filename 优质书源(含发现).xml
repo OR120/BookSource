@@ -81,15 +81,18 @@
   "ruleContentUrlNext": "",
   "ruleCoverUrl": "",
   "ruleFindUrl": "",
-  "ruleIntroduce": "id.intro@tag.p.0@textNodes",
+  "ruleIntroduce": "",
   "ruleSearchAuthor": "class.result-game-item-info-tag.0@tag.span.1@text",
   "ruleSearchCoverUrl": "tag.img.0@src",
+  "ruleSearchIntroduce": "class.result-game-item-desc@text",
   "ruleSearchKind": "",
   "ruleSearchLastChapter": "class.result-game-item-info-tag.3@tag.a.0@text",
   "ruleSearchList": "class.result-list@class.result-item result-game-item",
   "ruleSearchName": "tag.h3@text",
   "ruleSearchNoteUrl": "class.result-item-title.0@tag.a.0@href",
-  "ruleSearchUrl": "https://www.kanshula.com/search.do?keyword=searchKey"
+  "ruleSearchUrl": "https://www.kanshula.com/search.do?keyword=searchKey",
+  "serialNumber": 0,
+  "weight": 0
 },
 {
   "bookSourceGroup": "优质",
