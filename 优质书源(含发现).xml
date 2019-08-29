@@ -59,7 +59,7 @@
   "ruleSearchList": "class.result-list@class.result-item result-game-item",
   "ruleSearchName": "tag.h3@text",
   "ruleSearchNoteUrl": "class.result-item-title.0@tag.a.0@href",
-  "ruleSearchUrl": "https://www.liewen.cc/search.php?keyword=searchKey",
+  "ruleSearchUrl": "https://www.liewen.la/search.php?keyword=searchKey",
   "serialNumber": 1,
   "weight": 0
 },
