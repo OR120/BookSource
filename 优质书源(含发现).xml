@@ -555,7 +555,7 @@
   "ruleChapterUrl": "",
   "ruleChapterUrlNext": "",
   "ruleContentUrl": "tag.a@href",
-  "ruleContentUrlNext": "",
+  "ruleContentUrlNext": "class.readpage@tag.a.2@href",
   "ruleCoverUrl": "class.detail@tag.img.0@src",
   "ruleFindAuthor": "class.author@tag.a@text",
   "ruleFindCoverUrl": "class.sortImg@tag.img@src",
