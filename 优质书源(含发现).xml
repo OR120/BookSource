@@ -331,7 +331,7 @@
 {
   "bookSourceGroup": "优质",
   "bookSourceName": "追书网",
-  "bookSourceUrl": "https://www.bimo.cc",
+  "bookSourceUrl": "https://www.mangg.net",
   "enable": true,
   "httpUserAgent": "",
   "ruleBookAuthor": "",
@@ -355,7 +355,7 @@
   "ruleSearchList": "class.result-item",
   "ruleSearchName": "class.result-item-title.0@tag.a.0@text",
   "ruleSearchNoteUrl": "class.result-item-title.0@tag.a.0@href",
-  "ruleSearchUrl": "https://www.bimo.cc/search.aspx?keyword=searchKey&page=searchPage",
+  "ruleSearchUrl": "https://www.mangg.net/search.aspx?keyword=searchKey&page=searchPage",
   "serialNumber": 0,
   "weight": 0
 },
