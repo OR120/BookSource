@@ -738,9 +738,9 @@
   "bookSourceName": "爱书吧",
   "bookSourceUrl": "https://www.2shu8.cc",
   "enable": true,
-  "httpUserAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36",
+  "httpUserAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36",
   "ruleBookAuthor": "",
-  "ruleBookContent": "tag.fontcolor=red@textNodes|id.content@textNodes",
+  "ruleBookContent": "tag.fontcolor=red@textNodes|id.content@textNodes#.*正文卷",
   "ruleBookName": "",
   "ruleChapterList": "class.catalogs@tag.li@tag.a",
   "ruleChapterName": "text",
@@ -750,7 +750,7 @@
   "ruleContentUrlNext": "",
   "ruleCoverUrl": "class.catalog@class.cover@src",
   "ruleFindUrl": "",
-  "ruleIntroduce": "tag.p@textNodes#简介：",
+  "ruleIntroduce": "tag.p@text",
   "ruleSearchAuthor": "class.tag4@tag.a@text",
   "ruleSearchCoverUrl": "",
   "ruleSearchKind": "",
@@ -758,8 +758,8 @@
   "ruleSearchList": "class.content",
   "ruleSearchName": "class.tag2@tag.a@text",
   "ruleSearchNoteUrl": "class.tag2@tag.a@href",
-  "ruleSearchUrl": "https://www.2shu8.cc/s_searchKey",
-  "serialNumber": 1,
+  "ruleSearchUrl": "https://www.2shu8.cc/s__searchKey/searchPage/|char=gbk",
+  "serialNumber": 0,
   "weight": 0
 }
 ]
