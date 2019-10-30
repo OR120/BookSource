@@ -690,11 +690,10 @@
   "serialNumber": 2,
   "weight": 0
 },
-
 {
   "bookSourceGroup": "优质",
   "bookSourceName": "800小说网",
-  "bookSourceUrl": "https://www.800xs.net",
+  "bookSourceUrl": "https://www.800xs.cc",
   "enable": true,
   "httpUserAgent": "",
   "loginUrl": "",
@@ -710,8 +709,8 @@
   "ruleSearchList": "class.grid@tag.tr!0|id.maininfo",
   "ruleSearchName": "tag.td.0@tag.a@text|tag.h1@text",
   "ruleSearchNoteUrl": "tag.td.0@tag.a@href",
-  "ruleSearchUrl": "https://www.800xs.net/modules/article/search.php?searchkey=searchKey&submit=searchKey|char=gbk",
-  "serialNumber": 1,
+  "ruleSearchUrl": "https://www.800xs.cc/modules/article/search.php?searchkey=searchKey&submit=searchKey|char=gbk",
+  "serialNumber": 0,
   "weight": 0
 },
 {
