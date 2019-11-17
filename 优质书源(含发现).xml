@@ -683,7 +683,7 @@
 {
   "bookSourceGroup": "优质; 发现",
   "bookSourceName": "稻草人书屋",
-  "bookSourceUrl": "http://www.daocaorenshuwu.com",
+  "bookSourceUrl": "https://www.daocaorenshuwu.com",
   "enable": true,
   "httpUserAgent": "",
   "loginUrl": "",
@@ -698,7 +698,7 @@
   "ruleChapterUrl": "",
   "ruleChapterUrlNext": "",
   "ruleContentUrl": "tag.a@href#.*manhua.*",
-  "ruleContentUrlNext": "",
+  "ruleContentUrlNext": "class.col-md-6 text-center@tag.a.2@href",
   "ruleCoverUrl": "class.fl@tag.img@src",
   "ruleFindAuthor": "class.dark@text|tag.td.-1@text|tag.td.1@tag.a.0@text",
   "ruleFindCoverUrl": "class.book-img@src|class.book-img-small@data-original",
