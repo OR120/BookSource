@@ -571,7 +571,7 @@
   "httpUserAgent": "",
   "loginUrl": "",
   "ruleBookAuthor": "",
-  "ruleBookContent": "class.articleCon@html#.*本章未完.*|天才一秒记住本站地址.*|一秒记住.*?com|支持.*?留言！",
+  "ruleBookContent": "class.articleCon@html#一秒记住.*|.*www.*|本章未完.*|天才一秒记住本站地址.*|38看书.*|一秒记住.*?com|支持.*?留言！",
   "ruleBookInfoInit": "",
   "ruleBookKind": "",
   "ruleBookLastChapter": "",
