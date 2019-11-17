@@ -391,7 +391,7 @@
   "httpUserAgent": "",
   "loginUrl": "",
   "ruleBookAuthor": "",
-  "ruleBookContent": "id.content@textNodes#(?m)^感谢阅读，请您牢记：.+|.+最新章节！$",
+  "ruleBookContent": "id.content@textNodes#(?m)^感谢阅读，请您牢记：.+|.+最新章节！$|玫瑰小说.*|.*www.*|",
   "ruleBookKind": "",
   "ruleBookLastChapter": "",
   "ruleBookName": "",
