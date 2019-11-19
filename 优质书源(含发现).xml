@@ -545,7 +545,7 @@
   "httpUserAgent": "",
   "loginUrl": "",
   "ruleBookAuthor": "class.writer@text",
-  "ruleBookContent": "class.readerCon@tag.p@textNodes#.*([綄完]本神(站|\\W立占)\\W|记住本站地址：|最快更新！无广告！).*|(?m)^([^\\d\\w]+|[Pp][Ss][：:].+)$|—{3,}|(^。)?搜：\\S{1,4}完\\S本\\S神\\S站\\S{1,4}免费看精品文学|一秒记住、永不丢失！|浏览器.*|.*www.*|",
+  "ruleBookContent": "class.readerCon@tag.p@textNodes#.*完本神站.*|.*浏览器.*",
   "ruleBookKind": "class.route@tag.a.-2@text%%tag.table.0@tag.tr.-2@tag.t.-1@text",
   "ruleBookLastChapter": "class.chapter@tag.a.0@text",
   "ruleBookName": "tag.h1@text",
